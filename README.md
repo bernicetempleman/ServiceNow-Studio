@@ -21,7 +21,27 @@ Applications created in Guided App Creator or Studio are known as scoped applica
 ## To open:
 Use the Application navivator to open:
 - Systems Applications => My Company Applications Module
+- Create new
 
+
+##Configure the new application in the General Info pane.
+
+Application Details
+Naming an application is the first step in creating an application.
+- Name: Application name
+- Description: Description of the application
+- Drag and drop or browse to upload logo: Image for the application
+- Scoped/Global: Select the scope of the application
+- Scope: Unique identifier for the application, limited to 18 characters (Value is automatically populated)
+- Click the Create button.
+
+## Roles
+Roles add security to applications. To restrict access to an application, use the Roles choice list to select a role. Only users with the role can access the application. To create a role, click the Create new role link. To allow access to all users, do not add a role.
+
+Click the Continue button.
+
+## Application Formats
+Formats are how users interact with an application. Select one or more formats for the application. The example uses the Classic format.
 
 https://developer.servicenow.com/dev.do#!/learn/learning-plans/rome/new_to_servicenow/app_store_learnv2_buildmyfirstapp_rome_guided_app_creator_and_servicenow_studio_objectives
 
