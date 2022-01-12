@@ -24,7 +24,7 @@ Use the Application navivator to open:
 - Create new
 
 
-##Configure the new application in the General Info pane.
+## Configure the new application in the General Info pane.
 
 Application Details
 Naming an application is the first step in creating an application.
@@ -42,6 +42,30 @@ Click the Continue button.
 
 ## Application Formats
 Formats are how users interact with an application. Select one or more formats for the application. The example uses the Classic format.
+
+
+
+
+## Core Concepts:
+
+Use Guided App Creator to create applications.
+
+Add application roles
+Create tables
+The data model design determines what tables and fields an application needs.
+
+Studio is the Integrated Development Environment (IDE) for continuing development on applications.
+
+Use Studio to create application files.
+
+Use Form Designer to:
+
+Add fields to tables
+Create form layouts
+Create form sections
+Create form views
+
+![image](https://user-images.githubusercontent.com/12488769/149219574-b26e88fe-3fdc-4b06-9745-a52e472ae9c9.png)
 
 https://developer.servicenow.com/dev.do#!/learn/learning-plans/rome/new_to_servicenow/app_store_learnv2_buildmyfirstapp_rome_guided_app_creator_and_servicenow_studio_objectives
 
